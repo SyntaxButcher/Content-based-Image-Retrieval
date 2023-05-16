@@ -1,0 +1,15 @@
+﻿  main.cpp
+D:\TA5330\SelfAss2\SelfAss2\main.cpp(63,47): warning C4244: 'argument': conversion from '_Ty' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              _Ty=int
+          ]
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 605 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SelfAss2.vcxproj -> D:\TA5330\SelfAss2\x64\Release\SelfAss2.exe
