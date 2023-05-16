@@ -27,10 +27,15 @@ The results are displayed in a collage of images, starting with the target image
 Please note that this code requires OpenCV to be installed. Make sure to adjust the directory variable in the code to match your specific setup.
 
 For instance: 
+
 These are the top **4** matches for **pic.00274** in the olympus dataset using **multi-histogram with top half and bottom half** as features.
+
 **Pic 00274**
+
 <img src="https://github.com/SyntaxButcher/Content-based-Image-Retrieval/blob/main/Results/pic274.png" width="50%" height="50%">
+
 **Top 4 matches**
+
 <img src="https://github.com/SyntaxButcher/Content-based-Image-Retrieval/blob/main/Results/topNmatches.png" width="50%" height="50%">
 
 
