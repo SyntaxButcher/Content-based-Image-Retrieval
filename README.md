@@ -36,6 +36,6 @@ These are the top **4** matches for **pic.00274** in the olympus dataset using *
 
 **Top 4 matches**
 
-<img src="https://github.com/SyntaxButcher/Content-based-Image-Retrieval/blob/main/Results/topNmatches.png" width="50%" height="50%">
+<img src="https://github.com/SyntaxButcher/Content-based-Image-Retrieval/blob/main/Results/topNmatches.png" width="100%" height="100%">
 
 
