@@ -1,2 +1,0 @@
-# Content-based Image Retrieval
- 
