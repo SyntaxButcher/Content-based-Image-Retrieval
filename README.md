@@ -2,12 +2,13 @@
 
 This project demonstrates an image similarity matching technique using OpenCV.
 
-Overview
-The main.cpp file includes the main logic of the program. It uses OpenCV to read images, perform certain feature extraction techniques, and rank images based on similarity to a target image.
+# Overview
+The **main.cpp** file includes the main logic of the program. It uses OpenCV to read images, perform certain feature extraction techniques, and rank images based on similarity to a target image.
 
-The util.cpp file includes functions for feature extraction, loading data, and calculating distances. It includes three types of features: 9x9 pixels from the middle of the image, a 3D histogram of the whole image, and multi histogram where the image is divided into two halves and histograms are calculated for both.
+The **util.cpp** file includes functions for feature extraction, loading data, and calculating distances. It includes three types of features: 9x9 pixels from the middle of the image, a 3D histogram of the whole image, and multi histogram where the image is divided into two halves and histograms are calculated for both.
 
-Functionality
+# Functionality
+
 **Feature Extraction**: The program extracts features from the images for comparison. This can be done using three different techniques: using the 9x9 pixel values from the middle of the image, creating a 3D histogram of the image, or creating two histograms of the top and bottom half of the image.
 
 **Image Comparison**: It compares the target image with other images in the dataset. The comparison is made by calculating the Sum of Squared Differences (SSD) or the histogram intersection, depending on the feature extraction method used.
